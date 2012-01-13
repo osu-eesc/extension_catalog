@@ -1,0 +1,2 @@
+Extension Catalog
+A fully featured Fusion sub theme.  Requires <a href="http://drupal.org/project/fusion">Fusion Core 2.0.x</a> and the <a href="http://drupal.org/project/fusion_accelerator">Fusion Accelerator 7.x-2.x</a> suite to enable easy point-and-click theming.
