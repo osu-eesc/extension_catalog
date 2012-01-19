@@ -80,12 +80,12 @@ settings[theme_font] = none
 settings[theme_font_size] = font-size-13
 settings[breadcrumb_display] = 1
 settings[search_snippet] = 1
-settings[search_info_type] = 1
-settings[search_info_user] = 1
-settings[search_info_date] = 1
-settings[search_info_comment] = 1
-settings[search_info_upload] = 1
-settings[grid_mask] = 1
+settings[search_info_type] = 0
+settings[search_info_user] = 0
+settings[search_info_date] = 0
+settings[search_info_comment] = 0
+settings[search_info_upload] = 0
+settings[grid_mask] = 0
 
 ; --------------------------------------------------------------------------------
 ; Configure regions that will be alongside other regions.  
